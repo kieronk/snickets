@@ -136,17 +136,18 @@ body {
 /* kk custom styles */
 
 .img-responsive {
-  box-shadow: 3px 3px 3px #5a5a5a;
+  box-shadow: 4px 4px 4px #5a5a5a;
 }
 
 .contact {
   text-align: center;
   display: block;
   padding-top: 3em;
+  padding-bottom: 3em;
 } 
 
 .contactp {
-  margin: 1em 0em 0em 0em;
+  margin: 1em 0em 2em 0em;
 }
 
 .contact .btn {
